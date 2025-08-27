@@ -1,0 +1,29 @@
+h1
+{
+  color: brown;
+}
+
+ul li
+{
+  list-style: none;
+  color: black;
+  margin: 10px;
+  border-bottom:1px solid black ;
+
+}
+ul
+{
+  border: 1px solid black;
+  width: 200px;
+  margin-top: 40px;
+  
+}
+
+#root
+{
+  margin: 30px;
+}
+
+label{
+  padding-left: 10px;
+}
