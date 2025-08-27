@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NovaShop/static/css/main.5d732643.css",
+    "main.js": "/NovaShop/static/js/main.54807c35.js",
+    "index.html": "/NovaShop/index.html",
+    "main.5d732643.css.map": "/NovaShop/static/css/main.5d732643.css.map",
+    "main.54807c35.js.map": "/NovaShop/static/js/main.54807c35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d732643.css",
+    "static/js/main.54807c35.js"
+  ]
+}
